@@ -1,0 +1,8 @@
+cmake
+opencv-python
+keras-ocr
+# image-api
+Pillow
+Flask==1.0
+gunicorn
+requests[security]
