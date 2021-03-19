@@ -70,9 +70,9 @@ In conclusion, I developed an ML system that provided advertisement ideas from m
 
 # References
 
-hasnainroopawalla/Image-Captioning-Scene-Descriptor: A CNN-LSTM model to generate image captions 
-Quickstart: Computer Vision client library - Azure Cognitive Services
-faustomorales/keras-ocr: A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
-profanity-check · PyPI
-haltakov/natural-language-image-search: Search photos on Unsplash using natural language 
-https://beta.openai.com/docs/examples/idea-generation
+1. [hasnainroopawalla/Image-Captioning-Scene-Descriptor: A CNN-LSTM model to generate image captions](https://github.com/hasnainroopawalla/Image-Captioning-Scene-Descriptor)
+2. [Quickstart: Computer Vision client library - Azure Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=cli&pivots=programming-language-python)
+3. [faustomorales/keras-ocr: A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model](https://github.com/faustomorales/keras-ocr#egg=keras-ocr)
+4. [profanity-check · PyPI](https://pypi.org/project/profanity-check/)
+5. [haltakov/natural-language-image-search: Search photos on Unsplash using natural language](https://github.com/haltakov/natural-language-image-search)
+6. [OpenAI GPT-3 Idea Generation](https://beta.openai.com/docs/examples/idea-generation)
