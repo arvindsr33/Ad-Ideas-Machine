@@ -24,7 +24,8 @@ There isn’t a good dataset of advertisement images and their text descriptions
 
 # The Pipeline
 
-Now, I’ll start to delve into the technicalities of implementation. First, here’s a simplified block diagram of the Machine Learning system. ![image](https://user-images.githubusercontent.com/62667772/111731412-a8fea300-8830-11eb-9778-1fcb3d24a10c.png)
+Now, I’ll start to delve into the technicalities of implementation. First, here’s a simplified block diagram of the Machine Learning system. 
+![image](https://user-images.githubusercontent.com/62667772/111731412-a8fea300-8830-11eb-9778-1fcb3d24a10c.png)
 
 I have five models in total in the Ad Ideas Machine ML system:
 1. Optical Character Recognition Model for extracting texts from images
